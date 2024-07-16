@@ -1,0 +1,17 @@
+.order-confirmed {
+  text-align: center;
+  padding: 20px;
+}
+
+.order-confirmed h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.order-confirmed p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+/* Optional: Add additional styles as needed */
